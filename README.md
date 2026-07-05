@@ -1,6 +1,6 @@
 
 # Welcome to My GitHub!
-Hello there! I'm Pouria Bakhshi,
+## Hello there! I'm Pouria Bakhshi
 Experienced Software Engineer with 7+ years of experience in software development. skilled in designing and building high-performance, high-scalable, and high-quality software and cloud-native microservices with a focus on the backend using C# .NET and ASP.NET Core on top of cutting-edge technologies.
 
 Over the years, I've honed my skills in both front-end and back-end development, enabling me to tackle complex projects with confidence and precision. But what truly sets me apart is my knack for mentoring and coaching.
@@ -34,9 +34,8 @@ Happy coding!
 | Mobile App Development    | ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![React Native](https://img.shields.io/badge/reactnative-%23000000.svg?style=for-the-badge&logo=react&logoColor=white) |
 | Cloud Services            | ![Azure](https://img.shields.io/badge/azure-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
 | Database Management       | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
-|Ui/Ux| ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
-
+|Ui/Ux            | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+|![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

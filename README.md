@@ -1,5 +1,5 @@
-#  About Me:
-Welcome to Pouria Bakhshi's GitHub Profile!
+
+# Welcome to Pouria Bakhshi's GitHub Profile!
 
 I'm a full-stack developer whose work is focused on engineering front-end & Back-end technologies . My passion for Software Engineering can be traced back to my experiences over the past years, I like to get people excited about things that I’ve been excited about. 
 
